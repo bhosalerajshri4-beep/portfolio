@@ -18,5 +18,5 @@ This is my personal portfolio website created using HTML, CSS, Bootstrap, and Ja
 - JavaScript
 
 ## Project Link
-(https://steady-seahorse-3c8209portfolio.netlify.app/)
+https://rajshribhosaleportfolio12.netlify.app/
 
